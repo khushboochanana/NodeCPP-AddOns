@@ -4,11 +4,8 @@ public
 .tmp
 tmp/*
 .sass-cache
-client/bower_components
 dist
-build
 .gradle
-.idea
 .env
 *.log
 dump.rdb
@@ -16,4 +13,3 @@ data
 .DS_Store
 server/config/local.env.js
 server/config/local.config.js
-runKoka.sh
